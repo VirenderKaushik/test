@@ -1,3 +1,15 @@
 this is t1 file 
+<<<<<<< HEAD
 
 fisrt changes
+=======
+fdf
+
+f
+dfd
+f
+d
+fdf
+d
+fd
+>>>>>>> 43ee914a64a5d6b870831eaa0092ac346c665466
