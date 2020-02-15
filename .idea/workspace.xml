@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23e3385a-42cf-4acc-ad8e-f0ee0a1545c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XqF9EjY9U7KiX0AhY0EPEk1egA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23e3385a-42cf-4acc-ad8e-f0ee0a1545c8" name="Default Changelist" comment="" />
+      <created>1581765564496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581765564496</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="129" key="RollbackChangesDialog" timestamp="1581765661555">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="558" y="129" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1581765661555" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1581767010102">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1581767010102" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1581766458748">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1581766458748" />
+    <state x="548" y="210" key="git4idea.merge.GitMergeDialog" timestamp="1581765618624">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="210" key="git4idea.merge.GitMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1581765618624" />
+    <state x="494" y="210" key="git4idea.merge.GitPullDialog" timestamp="1581767211906">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="494" y="210" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1581767211906" />
+    <state x="559" y="319" key="git4idea.ui.GitStashDialog" timestamp="1581765715989">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="559" y="319" key="git4idea.ui.GitStashDialog/0.0.1536.834@0.0.1536.834" timestamp="1581765715989" />
+  </component>
+</project>
