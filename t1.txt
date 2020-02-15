@@ -18,4 +18,12 @@ fd
 
 local master chanages
 
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 for stash 3
+=======
+for stash 2 save
+>>>>>>> Stashed changes
+=======
+for stash 2 save
+>>>>>>> Stashed changes
